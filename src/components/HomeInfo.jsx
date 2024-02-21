@@ -31,14 +31,14 @@ const renderContent = {
   ),
   3: (
     <InfoBox 
-        text="Navigating my portfolio is like embarking on a visual journey, where each project is a chapter revealing the artistry of code and the story of my passion for creating meaningful digital experiences."
+        text="Crafted with precision, my portfolio showcases a symphony of skills and experiences, painting a vivid narrative of my professional journey."
         link='/projects'
         btnText='Visit my portfolio'
     />
   ),
   4: (
     <InfoBox 
-        text="As the pixels weave tales of innovation and creativity in my portfolio, a silent partnership beckons. Those who envision collaboration find their way to contact me, drawn by the promise of transforming shared ideas into a dynamic symphony of cooperation and success."
+        text="Anticipating a connection soon, my portfolio serves as a visual invitation for those intrigued to reach out and embark on a collaborative journey."
         link='/contact'
         btnText="Let's talk"
     />
