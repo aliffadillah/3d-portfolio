@@ -26,6 +26,12 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import docker from './docker.svg'
+import management from './management.svg'
+import console from './console.svg'
+import property from './property.svg'
+import restaurant from './restaurant.svg'
+import flutter from './flutter.svg'
 
 export {
     css,
@@ -55,5 +61,11 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    docker,
+    management,
+    console,
+    property,
+    restaurant,
+    flutter
 }
